@@ -1,6 +1,6 @@
 # Hangman
 
-![Project Image](image_url)
+<img src="Hangman1.png" alt="Project Image" style="width: 50%;">
 
 ## Context
 
@@ -21,3 +21,5 @@ List the technologies or tools used in the project. This can include programming
 ## Contribution
 
 I was tasked with setting up the backend logic that allowed the user to select a letter while not having the unknown word hidden on the front end. What a team member and I did was stored a word on the backend, and when a letter was sent back to us, if the letter was in the word, we sent back a new set of underscores with the correct letter in the correct space in the array of underscores.
+
+<img src="Hangman2.png" alt="Project Image" style="width: 50%;">
