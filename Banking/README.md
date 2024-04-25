@@ -20,3 +20,5 @@ Users are able to log in, and use the functionalities described above. The UI is
 ## Contribution
 
 This was the first project my team and I started, so organizationally things were a little chaotic. After a bit of working in both the frontend and the backend, I ended on the role of creating some of the routes to be utilized when sending and receiving data from the database.
+
+![Project Image](banking2.png)
