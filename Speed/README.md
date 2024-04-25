@@ -1,6 +1,10 @@
 # Speed Card Game
 
-<img src="Speed1.png" alt="Project Image" style="width: 50%;">
+
+
+Uploading Screen Recording 2024-04-25 at 1.20.31 PM.mov…
+
+
 
 ## Context
 
@@ -26,3 +30,5 @@ As the game progresses, the number of cards the players have dwindles until ther
 
 Since this was a team effort, my contribution to this project was in implementing the Web Sockets. I used socket.io to receive and emit
 socket actions to and from each player. I had to make sure that on the drag and drop actions, the sockets would receive the correct card that was placed and send it to the other player and updating the state of the game for both players.
+
+<img src="Speed1.png" alt="Project Image" style="width: 50%;">
