@@ -1,6 +1,6 @@
 # Speed Card Game
 
-![Project Image](image_url)
+<img src="Speed1.png" alt="Project Image" style="width: 50%;">
 
 ## Context
 
