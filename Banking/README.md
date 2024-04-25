@@ -1,6 +1,6 @@
 # Banking App
 
-![Project Image](image_url)
+![Project Image]("Banking1.png")
 
 ## Context
 
